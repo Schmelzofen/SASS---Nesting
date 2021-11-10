@@ -1,0 +1,48 @@
+.icon--container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+}
+.icon--container i {
+  margin: 0 1%;
+  font-size: 50px;
+}
+.icon--container i:nth-of-type(1) {
+  color: dodgerblue;
+}
+.icon--container i:nth-of-type(2) {
+  color: blue;
+}
+.icon--container i:nth-of-type(3) {
+  color: blue;
+}
+.icon--container i:nth-of-type(4) {
+  color: teal;
+}
+.icon--container i:nth-of-type(5) {
+  color: yellow;
+}
+.icon--container i:nth-of-type(6) {
+  color: red;
+}
+.icon--container i:nth-of-type(7) {
+  color: orange;
+}
+.icon--container i:nth-of-type(8) {
+  color: green;
+}
+.icon--container i:nth-of-type(9) {
+  color: turquoise;
+}
+.icon--container i:nth-of-type(10) {
+  color: blue;
+}
+.icon--container i:nth-of-type(11) {
+  color: orange;
+}
+.icon--container i:nth-of-type(12) {
+  color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */
